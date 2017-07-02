@@ -11,6 +11,8 @@ int main(void){
 	scanf("%d", &idade);
 	printf("Digite o genero:");
 	scanf("%c", &sexo);
+	printf("Digite o nome:");
+	scanf("%s", nome);
 
 	return(0);
 }
